@@ -11,3 +11,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/evajnewby/EvaPackage
 BugReports: https://github.com/evajnewby/EvaPackage/issues
+RoxygenNote: 7.3.2
